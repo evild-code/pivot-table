@@ -1,24 +1,11 @@
-# pivot-table
+# @growui/pivot-table
 
-## Project setup
-```
-yarn install
-```
+Pivot table
 
-### Compiles and hot-reloads for development
+## 安装
+
 ```
-yarn serve
+yarn add @growui/pivot-table (npm i @growui/pivot-table)
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 使用
